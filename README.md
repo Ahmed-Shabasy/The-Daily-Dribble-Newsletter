@@ -20,7 +20,7 @@ This website is a part of solo projects that was made during Scrimba's <a href="
 - Gave the elements a wonderful shape using borders and padding.
 
 ## Live Demo
-Check out the live demo here: https://daily-dribble-newsletter0.netlify.app/
+Check out the live demo <a href="https://daily-dribble-newsletter0.netlify.app/" target="_blank">here</a>.
 
 ## Contributing
 
