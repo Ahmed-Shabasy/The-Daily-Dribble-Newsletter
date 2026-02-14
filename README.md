@@ -15,6 +15,7 @@ This website is a part of solo projects that was made during Scrimba's <a href="
 ## Key Learning Outcomes
 
 - Used buttons, inputs, and images to give the website a good shape and usability.
+- Made the link able to be opened in new tab.
 - Linked the HTML file with CSS file.
 - Centered the content using display and aligning.
 - Gave the elements a wonderful shape using borders and padding.
